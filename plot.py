@@ -6,3 +6,5 @@ x=df.area
 y=df.prices
 plt.plot(x,y,color='red',marker='*')
 plt.show()
+
+
